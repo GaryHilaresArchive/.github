@@ -3,9 +3,11 @@ This archive is for Gary Strivin' (a. k. a. Gary Hilares) unmaintained repositor
 
 ## Archives' Index
 ### Personal libraries
-- **[Rubber Integers](https://github.com/GaryStrivingArchive/Rubber-Integers):** Arbitrary integer size support library for C++.
+#### Rubber Numbers
 - **[Rubber Numbers](https://github.com/GaryStrivingArchive/Rubber-Numbers):** Arbitrary integer size and floating point precision support library for C++.
+- **[Rubber Integers](https://github.com/GaryStrivingArchive/Rubber-Integers):** Arbitrary integer size support library for C++.
 - **[Rubber Floats](https://github.com/GaryStrivingArchive/Rubber-Floats):** Arbitrary floating point precision support library for C++.
+#### GSS Language
 - **[GSS Language](https://github.com/GaryStrivingArchive/GSS-Language):** A simple open-source property definition language inspired in CSS and developed to enforce the Keep It Simple design principle. 
 ### Liked archive
 - **[Quack Overflow](https://github.com/GaryStrivingArchive/quackoverflow):** Quack Overflow.
