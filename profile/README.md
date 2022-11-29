@@ -13,6 +13,8 @@ Visit my GitHub profile [here](https://github.com/GaryStriving).
 - **[Rubber Floats](https://github.com/GaryStrivingArchive/Rubber-Floats):** Arbitrary floating point precision support library for C++.
 #### GSS Language
 - **[GSS Language](https://github.com/GaryStrivingArchive/GSS-Language):** A simple open-source property definition language inspired in CSS and developed to enforce the Keep It Simple design principle. 
+#### Graphite Logger
+- **[Graphite Logger](https://github.com/GaryStrivingArchive/Graphite-Logger):** Simple one-header-only library for logging.
 ### Liked archive
 - **[Quack Overflow](https://github.com/GaryStrivingArchive/quackoverflow):** Quack Overflow.
 - **[Savio Martin profile](https://github.com/GaryStrivingArchive/saviomartin-profile)**: Savio Martin's GitHub profile repository fork. This repository is for inspiration and read-only.
