@@ -1,3 +1,4 @@
+# Gary Striving archives' index
 ## Metadata
 This archive is for Gary Strivin' (a. k. a. Gary Hilares) unmaintained repositories.
 
