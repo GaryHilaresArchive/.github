@@ -22,4 +22,4 @@ Visit my GitHub profile [here](https://github.com/GaryStriving).
 - **[Sudoku solver CLI](https://github.com/GaryStrivingArchive/lhdbuild2022-sudoku-solver-cli):** A CLI that solves sudokus.
 - **[Rock-paper-scissors Discord bot](https://github.com/GaryStrivingArchive/lhdbuild2022-rock-paper-scissors-discord-bot):** A Discord bot that plays rock-paper-scissors with you.
 #### Slam Dunk Hacks
-- **[Knowledge Dunk Discord bot](https://github.com/GaryStrivingArchive/Knowledge-Dunk-Discord-Bot):** Discord integration for Knowledge Dunk, Voiceflow API I made that answers your questions about basketball ruling.
+- **[Knowledge Dunk Discord bot](https://github.com/GaryStrivingArchive/Knowledge-Dunk-Discord-Bot):** Discord integration for Knowledge Dunk, a Voiceflow API made by me that answers your questions about basketball ruling.
