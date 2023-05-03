@@ -1,4 +1,4 @@
-<h1 align="center">Gary Striving archives' index</h1>
+<h1 align="center">Gary Hilares archives' index</h1>
 
 ![GitHub banner](https://user-images.githubusercontent.com/46727048/152216465-b97e0398-b157-4ba2-a2f4-64cb707806bf.jpg)
 ## Metadata
