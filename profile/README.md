@@ -6,6 +6,9 @@ This archive is for Gary Hilares unmaintained repositories.
 
 Visit my GitHub profile [here](https://github.com/GaryHilares).
 ## Archives' Index
+### General Use Applications
+#### Arduino Morse Code Reader
+- **[Arduino-Morse-Code-Reader](https://github.com/GaryHilaresArchive/Arduino-Morse-Code-Reader):** No description.
 ### Personal libraries
 #### Rubber Numbers
 - **[Rubber Numbers](https://github.com/GaryHilaresArchive/Rubber-Numbers):** Arbitrary integer size and floating point precision support library for C++.
